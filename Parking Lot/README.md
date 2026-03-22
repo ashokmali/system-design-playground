@@ -1,5 +1,7 @@
 # Parking Lot Design
 
+Imagine you’re arriving at a busy parking lot, eager to park your car. At the entrance, you’re issued a ticket. You then drive in, find a spot suited to your vehicle’s size, and park. Later, when you prepare to leave, you present your ticket at the exit, the system calculates your fee, and the spot is freed up for the next vehicle. Behind the scenes, the parking lot is assigning spots based on vehicle size, recording entry and exit times, and updating availability for new arrivals. Now, let’s design a parking lot system that handles all this.
+
 ## 1) Functional Requirements
 
 - The parking lot has multiple parking spots, including compact, regular, and oversized spots.
